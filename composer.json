@@ -1,0 +1,17 @@
+{
+    "name": "sh_sh_dev/openvpn-parser",
+    "description": "Parse OpenVPN status file",
+    "type": "library",
+    "keywords": ["openvpn", "openvpn-php", "openvpn-parser", "openvpn status file", "openvpn status file php"],
+    "license": "MIT",
+    "homepage": "https://github.com/sh-sh-dev/OpenVPN-Parser",
+    "authors": [
+        {
+            "name": "Shaygan",
+            "email": "shsh512@pm.me"
+        }
+    ],
+    "require": {
+        "php": ">7.*"
+    }
+}
