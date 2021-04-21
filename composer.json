@@ -1,5 +1,5 @@
 {
-    "name": "sh_sh_dev/openvpn-parser",
+    "name": "sh-sh-dev/openvpn-parser",
     "description": "Parse OpenVPN status file",
     "type": "library",
     "keywords": ["openvpn", "openvpn-php", "openvpn-parser", "openvpn status file", "openvpn status file php"],
@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "php": ">7.*"
+        "php": "^7.*"
     }
 }
