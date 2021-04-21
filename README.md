@@ -6,7 +6,7 @@ Parse OpenVPN status files using php
 
 * Install using composer:
 ```shell script
-composer require sh_sh_dev/openvpn-parser
+composer require sh-sh-dev/openvpn-parser
 ``` 
 
 After including composer dependencies in your project, just use the class:
